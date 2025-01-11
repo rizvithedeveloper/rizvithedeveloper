@@ -1,4 +1,4 @@
-👋 Hi there! I'm Rizwan, a seasoned frontend engineer with over 6+ years of hands-on experience. 💻 My passion lies in crafting beautiful and intuitive user interfaces that enhance the user experience and bring designs to life.
+👋 Hi there! I'm Rizwan, a seasoned frontend engineer with over 8+ years of hands-on experience. 💻 My passion lies in crafting beautiful and intuitive user interfaces that enhance the user experience and bring designs to life.
 
 🚀 Throughout my career, I have worked on a wide range of projects, from small-scale startups to large enterprise applications. I specialize in cutting-edge web technologies such as HTML5, CSS3, and JavaScript, with expertise in popular frameworks and libraries like React, Angular, and Vue.js.
 
